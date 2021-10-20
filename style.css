@@ -17,6 +17,7 @@ nav{
     flex: 1;
     text-align: right;
 }
+
 nav ul{
     display: inline-block;
     list-style-type: none;
@@ -136,6 +137,7 @@ p{
 .col-4:hover{
     transform: translateY(-5px);
 }
+
 .offer{
     background: radial-gradient(#fff, #ffd6d6);
     margin-top: 80px;
@@ -146,4 +148,52 @@ p{
 }
 small{
     color: #555;
+}
+/*testimonials*/
+.testimonial{
+    padding-top: 100px;
+}
+.testimonial .col-3{
+    text-align: center;
+    padding: 40px 70px;
+    box-shadow: 0 0 40px 0px rgba(255,0,255,0.3);
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+.testimonial .col-3 img{
+    width: 90px;
+    margin: 20px;
+    border-radius: 100%;
+}
+.testimonial .col-3:hover{
+    transform: translateY(-10px);
+
+
+}
+.fa.fa-quote-left{
+    font-size: 34px;
+    color: #ff523b;
+
+}
+.col-3 p{
+    font-size: 12px;
+    margin: 12px 0;
+    color: #777;
+}
+.testimonial .col-3 h3{
+    font-weight: 600;
+    color:#555;
+    font-size: 16px;
+}
+/*-------Brands-------*/
+.brands{
+    margin: 100px auto;
+}
+col-5{
+    width: 150px;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.col-5 img:hover{
+    filter: grayscale(0);
 }
