@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Afri-Clad-Major-Store/login.jpg)
+}
+.img{
+   height: 100px;
+   width: 100px;
+   background-size: cover;
+}
