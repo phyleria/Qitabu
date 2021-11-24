@@ -6,6 +6,8 @@ body{
     background: url(Afri-Clad-Major-Store/login.jpg);
     background-position: cover;
         background-size: cover;
+    align-content:top;
+    margin-top: 0%;
 }
 .wrapper{
     margin: auto;
