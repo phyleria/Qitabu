@@ -1,19 +1,14 @@
-body{
-    margin:flex; 
-    padding: 0px;
-    height: 100px;
-    width: 100%;
-    background: url(Asset/login.jpg);
-   
-}
-.wrapper{
-    margin: auto;
-    /*position:center;*/
+html { 
+    background: url(Asset/LOGIN.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 
-}
 .img{
-   height: 100%;
-   width: 100px;
+   height: 100px;
+   width: 100%;
    background-size: cover;
    background-position: center;
    font-family: sans-serif;
