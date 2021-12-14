@@ -18,7 +18,7 @@
                             <input type="text" name="uname" placeholder="Enter Username"><br>
                             <label>Password</label>
                             <input type="password" name="password" placeholder="Password">
-                        <button type="submit". Login</button><br>
+                        <button type="submit"> Login</button><br>
                             <a href="#">Lost your Password?</a><br>
                             <a href="SignUp.html">Don't have an account?</a>
                         </form>
