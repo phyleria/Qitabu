@@ -12,7 +12,7 @@
                         <h1>Login Here</h1>
                         <?php if(isset($_GET['error'])) {?>
                         <p class= "error"><?php echo $_GET['error'];?> </p>
-                        <?php}  ?>
+                        <?php }  ?>
                         
                             <label>Username</label>
                             <input type="text" name="uname" placeholder="Enter Username"><br>
