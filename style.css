@@ -60,7 +60,12 @@ p {
 }
 .btn {
   display: inline-block;
-  background:  #ff523b;
+  background:  #fee6e3;
+  border-radius: 8px;
+  box-sizing: border-box;
+  border: 2px solid #111; 
+  font-size: 16px;
+  font-family: Inter,sans-serif;
   color: fff;
   padding: 8px 30px;
   margin: 30px 0;
@@ -257,6 +262,9 @@ ul {
 }
 #logo1{
   border-radius: 1px;
+  /* flex-basis: 50%; */
+  /* min-width: 300px; */
+
   
 }
 #winnie{

@@ -7,15 +7,15 @@
     
 
                 <div class="loginbox">
-                        <img src="Asset/avatar.png" class="avatar">
+                        <img src="https://i.pinimg.com/564x/ac/96/ce/ac96ce8468432d27d509448861aab256.jpg" class="avatar">
                     <form action = "action.php" method="post">
                         <h1>Login Here</h1>
                         <?php if(isset($_GET['error'])) {?>
                         <p class= "error"><?php echo $_GET['error'];?> </p>
                         <?php }  ?>
                         
-                            <label>Username</label>
-                            <input type="text" name="uname" placeholder="Enter Username"><br>
+                            <label>Phone number</label>
+                            <input type="text" name="uname" placeholder="Enter Phone number"><br>
                             <label>Password</label>
                             <input type="password" name="password" placeholder="Password">
                         <button type="submit"> Login</button><br>
