@@ -14,7 +14,7 @@ The Community website can be <a href = "https://phyleria.github.io/AfriClad/"> V
 
 2. Then clone it using this command:
 ```bash
-Git clone https://github.com/phyleria/Afri-Clad-Major-Store.git
+Git clone https://github.com/phyleria/Qitabu.git
 cd Afri-Clad-Major-Store
 ```
 
