@@ -6,7 +6,7 @@ When in the initial stage of developing the site this was the UI design that was
                   <h6>Images to be Added</h6>
 
 ## Live Demonstration
-The E-commerce website can be <a href = "https://phyleria.github.io/AfriClad/"> Viewed Here</a><br>
+The Community website can be <a href = "https://phyleria.github.io/AfriClad/"> Viewed Here</a><br>
 <h6>Please take note that changes are still being made so the website might be out of service at times</h6>
 
 ## Getting Started
