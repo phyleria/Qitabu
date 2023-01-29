@@ -1,12 +1,12 @@
-# Afri-Clad-Major-Store
-This is an e-commerce store that displays items available in the store with their attached prices.The products are loaded from an SQL Database and the user is allowed to select and add their product of choice to the cart. The user can also see the rates and reviews of specific products.
+# Qitabu Book Club
+This is a community site for the Qitabu Book Club that shows their current and past reads, reviews on specific books. It also allows more members to join by registering online for the club membership.
 
 ## User Design Interface
 When in the initial stage of developing the site this was the UI design that was created.<br>
                   <h6>Images to be Added</h6>
 
 ## Live Demonstration
-The E-commerce website can be <a href = "https://phyleria.github.io/"> Viewed Here</a><br>
+The E-commerce website can be <a href = "https://phyleria.github.io/AfriClad/"> Viewed Here</a><br>
 <h6>Please take note that changes are still being made so the website might be out of service at times</h6>
 
 ## Getting Started
